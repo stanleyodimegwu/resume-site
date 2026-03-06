@@ -2,25 +2,9 @@
 layout: page
 title: Stanley Odimegwu's Resume
 ---
-
-# Stanley Odimegwu
-
-Winnipeg, MB | 431-588-7125  
-
-[LinkedIn](https://linkedin.com/in/YOURUSERNAME)  
-[GitHub](https://github.com/YOURUSERNAME)
-
----
-
-## Download My Resume
-
-[Download Resume PDF](resume.pdf)
-
----
-
-## Resume
-
+ 
 ## STANLEY ODIMEGWU
+Winnipeg, MB | 431-588-7125 
 ### _Data Analyst_
 LinkedIn: www.linkedin.com/in/stanley-odims-a20a8b259
 GitHub: https://github.com/stanleyodimegwu
